@@ -2,6 +2,7 @@
 import Vehicle from './Vehicle.js';
 import Wheel from './Wheel.js';
 
+
 // Car class that extends Vehicle class
 class Car extends Vehicle {
   // Declare properties of the Car class

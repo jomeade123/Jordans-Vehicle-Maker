@@ -3,8 +3,7 @@ import inquirer from "inquirer";
 import Truck from "./Truck.js";
 import Car from "./Car.js";
 import Motorbike from "./Motorbike.js";
-import Wheel from "./Wheel.js";
-import { parse } from "path";
+
 
 // define the Cli class
 class Cli {
