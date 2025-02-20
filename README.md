@@ -35,4 +35,4 @@ For any questions, please contact me at [jordanmeade451@gmail.com](mailto:jordan
 You can find more of my work at [jomeade123](https://github.com/jomeade123)
   
 ## Video Submission
-Link : <iframe src="https://drive.google.com/file/d/1QdAlkb4CtrankgUz2rvGX-1OgF9Tm49b/preview" width="640" height="480"></iframe>
+Link : https://youtu.be/EKCperU8_ew
